@@ -1,5 +1,8 @@
 # Oauth-Spike
 
+Project Startup:
+Change the Web APi proejcts' web.config "auth:clientid" app setting to be the client id registered in Azure.
+
 current resources: 
 - https://azure.microsoft.com/en-us/documentation/articles/active-directory-integrating-applications/
 - https://azure.microsoft.com/en-us/documentation/articles/active-directory-devquickstarts-webapi-dotnet/
